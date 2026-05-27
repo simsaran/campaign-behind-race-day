@@ -20,7 +20,7 @@ The goal was to build something that feels like real internal marketing work in 
 
 ## Live dashboard
 
-[Launch the Streamlit Dashboard](https://campaign-behind-race-day.streamlit.app)
+[Launch the Streamlit Dashboard](https://campaign-behind-race-day-2026.streamlit.app/)
 
 ---
 
